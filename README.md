@@ -1,6 +1,6 @@
 The code written in this github repository is aimed for other students or programmers who seek examples of manim animations. This code was written for a university mathematics video competition which took place in 2023. The final video result can be seen here: https://www.youtube.com/watch?v=ent_SkPIj4I. 
 
-The whole video was sliced into twelve scences. All the scenes can be downloaded from the scene_video and the corresponding code can be found in scene_code file. (I'll be uploading all the content through the following months.)
+The whole video was sliced into twelve scences. All the scenes can be downloaded from the scene_video directory and the corresponding code can be found in scene_code directory. (I'll be uploading all the content throughout the following months.)
 
 When it comes to using Manim library: 
 
